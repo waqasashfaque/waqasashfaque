@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @waqasashfaque
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning AI and Data science skills
-- 💞️ I’m looking to collaborate on this platform for learning, exchanging skills and experience 
-- 📫 I am available on waqas.dataanalyst@gmail.com 
+As a seasoned Data Processing expert with over 16 years of experience, I specialize in data analysis, information management, and project management. My expertise spans data collection, cleaning, and analysis, as well as field monitoring and research design. I have a proven track record of successfully managing large-scale data processing projects for UNICEF programs in Pakistan.
+With a strong statistical background and project management expertise, I excel in designing and managing complex projects, ensuring attention to detail, and driving quality results. I am committed to staying up-to-date with new technologies and approaches in data processing, tracking, and evaluation, and I am confident in my ability to deliver high-quality insights and reports in a timely manner.
+I possess expertise in CAPI application development using CSPro, ODK and KoboToolbox, and proficient in data processing and analysis using SPSS, STATA, and other statistical software. I leverage these skills to ensure seamless data collection, processing, and analysis, and to deliver actionable insights that inform data-driven decisions.
+- 📫 I am available on waqas.ashfaque@yahoo.com
 
 <!---
 waqasashfaque/waqasashfaque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
